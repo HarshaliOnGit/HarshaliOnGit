@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Harshali+Malvankar;Software+Developer+%7C+Database+Engineer;Building+full-stack+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=620&lines=%E2%80%8BHi+%F0%9F%91%8B+I'm+Harshali+Malvankar%E2%80%8B;%E2%80%8BSoftware+Developer+%7C+Database+Engineer%E2%80%8B;%E2%80%8BBuilding+full-stack+solutions+%F0%9F%9A%80%E2%80%8B" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HarshaliOnGit&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/HarshaliOnGit)
 [![GitHub followers](https://img.shields.io/github/followers/HarshaliOnGit?style=flat-square&label=Followers)](https://github.com/HarshaliOnGit?tab=followers)
