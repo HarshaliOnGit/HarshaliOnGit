@@ -5,19 +5,18 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=HarshaliOnGit&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/HarshaliOnGit)
 [![GitHub followers](https://img.shields.io/github/followers/HarshaliOnGit?style=flat-square&label=Followers)](https://github.com/HarshaliOnGit?tab=followers)
 
----
-
 </div>
 
 ## About Me
 
-> **Experienced Software Developer** with **5+ years** of expertise in database development and application programming. Demonstrated proficiency in building high-quality solutions for **banking, lending, healthcare**, and **invoicing** systems. Proven ability to deliver scalable applications with strong focus on **data analytics** and **user-centric design**.
+> **Experienced Software Developer** with **7+ years** of expertise in database development and application programming. Demonstrated proficiency in building high-quality solutions for **banking, lending, healthcare**, and **invoicing** systems. Proven ability to deliver scalable applications with strong focus on **data analytics** and **user-centric design**.
 
-- 💼 **Currently:** Application Developer at Medicnet Pty — Building invoicing systems & Tableau dashboards
-- 🎓 **Master's in Computer Science** — University of Wollongong
+- 💼 **Currently:** Application Developer at Medicnet Pty - Building invoicing systems & Tableau dashboards
+- 🎓 **Master's in Computer Science** - University of Wollongong
 - 📍 **Based in** Wollongong, NSW, Australia 🇦🇺
 - 🏆 **2× Best Employee** (Client Support & Customizations)
-- 📄 **Published Research** — AI-based real-time computer vision & puzzle solver ([IJCSITR](https://www.ijcsitr.com/))
+- 📄 **Published Research** - AI-based real-time computer vision & puzzle solver ([IJCSITR](https://www.ijcsitr.com/))
+- 🗣️ **Languages:** English (Professional) · Hindi · Marathi (Native)
 
 ---
 
@@ -85,8 +84,12 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaliOnGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaliOnGit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api?username=HarshaliOnGit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" height="165" alt="GitHub Stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=HarshaliOnGit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshaliOnGit&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -103,9 +106,17 @@
 
 I'm always open to discussing software development, database design, or collaboration opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshali-malvankar)
-[![Email](https://img.shields.io/badge/Email-harshali2gsm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshali2gsm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshalimalvankar/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshali2gsm@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge)](https://github.com/HarshaliOnGit)
+
+---
+
+## Current Availability
+
+| Full-time Roles | Contract / Consulting | Mentoring |
+|-----------------|------------------------|-----------|
+| Software Developer · Full Stack Engineer · Data Engineer · Application Developer | Project-based development | Code reviews & guidance |
 
 ---
 
@@ -113,7 +124,7 @@ I'm always open to discussing software development, database design, or collabor
 
 **Wollongong, NSW 🇦🇺**
 
-> *"Building robust systems that scale — from databases to dashboards."*
+> *"Building robust systems that scale - from databases to dashboards."*
 
 **Harshali Malvankar** | Software Developer
 
